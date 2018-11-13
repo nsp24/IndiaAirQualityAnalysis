@@ -1,4 +1,7 @@
 # Analysis of Air Quality in India
-### Analyzing the Air Quality Dataset from Kaggle.
+## Analysis consists of 
+### 1. Real-time data collected from data.gov.in
+### 2. Analyzing historical Air Quality Dataset from Kaggle.
 ---
-The dataset is here: https://www.kaggle.com/shrutibhargava94/india-air-quality-data
+The real-time data is accessed via the API exposed by data.gov.in
+The historical dataset is here: https://www.kaggle.com/shrutibhargava94/india-air-quality-data
